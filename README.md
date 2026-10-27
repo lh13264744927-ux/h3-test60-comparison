@@ -1,2 +1,5 @@
-# h3-test60-comparison
-H3 old and new 30-video cohorts - readonly 60-video test collection
+# H3 新旧两批测试集
+
+旧批30段、新批30段（无人），共60段最终原片及原图。原片逐字节保留，无重新编码；独立静态只读页面，无本机服务依赖。
+
+两批采用不同图片，不代表同图改进前后对照。判断为助手初评，不代表人工验收。
